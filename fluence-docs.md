@@ -6,7 +6,7 @@ Fluence Docs, hosted at [docs.fluencetraining.com](https://docs.fluencetraining.
 @libsql/client
 0.14.0 <https://github.com/libsql/libsql-client-ts>
 license: MIT
-authors: undefined
+authors: tursodatabase
 
 ******************************
 
