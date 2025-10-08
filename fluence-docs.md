@@ -30,15 +30,8 @@ SOFTWARE.
 
 ******************************
 
-@libsql/client
-0.14.0 <https://github.com/libsql/libsql-client-ts>
-license: MIT
-authors: undefined
-
-******************************
-
 @payloadcms/db-mongodb
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
@@ -66,7 +59,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @payloadcms/email-nodemailer
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
@@ -94,7 +87,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @payloadcms/next
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
@@ -122,7 +115,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @payloadcms/plugin-import-export
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2024 Payload CMS, Inc. <info@payloadcms.com>
@@ -150,7 +143,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @payloadcms/plugin-search
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
@@ -178,7 +171,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @payloadcms/richtext-lexical
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
@@ -206,7 +199,7 @@ SOFTWARE.
 ******************************
 
 @payloadcms/storage-s3
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
@@ -233,11 +226,11 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ******************************
 
-@phosphor-icons/react
-2.1.10 <https://github.com/phosphor-icons/react>
+@radix-ui/react-avatar
+1.1.10 <https://github.com/radix-ui/primitives>
 MIT License
 
-Copyright (c) 2020 Phosphor Icons
+Copyright (c) 2022 WorkOS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -662,13 +655,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ******************************
 
-drizzle-orm
-0.44.6 <https://github.com/drizzle-team/drizzle-orm>
-license: Apache-2.0
-authors: Drizzle Team
-
-******************************
-
 fumadocs-core
 15.8.4 <https://github.com/fuma-nama/fumadocs>
 MIT License
@@ -877,7 +863,7 @@ SOFTWARE.
 ******************************
 
 payload
-3.59.0 <https://github.com/payloadcms/payload>
+3.59.1 <https://github.com/payloadcms/payload>
 MIT License
 
 Copyright (c) 2018-2025 Payload CMS, Inc. <info@payloadcms.com>
