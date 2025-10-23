@@ -5,7 +5,7 @@ Fluence Sync, hosted at [b2b-dashboard.fluencetraining.com](https://b2b-dashboar
 ******************************
 
 @clerk/backend
-2.14.0 <https://github.com/clerk/javascript>
+2.19.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -32,7 +32,7 @@ SOFTWARE.
 ******************************
 
 @clerk/clerk-react
-5.47.0 <https://github.com/clerk/javascript>
+5.53.3 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -59,7 +59,7 @@ SOFTWARE.
 ******************************
 
 @clerk/nextjs
-6.32.0 <https://github.com/clerk/javascript>
+6.34.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -86,7 +86,7 @@ SOFTWARE.
 ******************************
 
 @clerk/shared
-3.25.0 <https://github.com/clerk/javascript>
+3.28.3 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk Inc
@@ -113,7 +113,7 @@ SOFTWARE.
 ******************************
 
 @clerk/types
-4.86.0 <https://github.com/clerk/javascript>
+4.95.1 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -140,7 +140,7 @@ SOFTWARE.
 ******************************
 
 @convex-dev/workflow
-0.2.6 <https://github.com/get-convex/workflow>
+0.2.7 <https://github.com/get-convex/workflow>
 
                                  Apache License
                            Version 2.0, January 2004
@@ -815,7 +815,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @hubspot/api-client
-13.2.0 <https://github.com/HubSpot/hubspot-api-nodejs>
+13.4.0 <https://github.com/HubSpot/hubspot-api-nodejs>
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -1021,8 +1021,96 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ******************************
 
+@img/colour
+1.0.0 <https://github.com/lovell/colour>
+# Licensing
+
+## color
+
+Copyright (c) 2012 Heather Arthur
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## color-convert
+
+Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>.
+Copyright (c) 2016-2021 Josh Junon <josh@junon.me>.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## color-string
+
+Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## color-name
+
+The MIT License (MIT)
+Copyright (c) 2015 Dmitry Ivanov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+******************************
+
 @img/sharp-darwin-arm64
-0.34.3 <https://github.com/lovell/sharp>
+0.34.4 <https://github.com/lovell/sharp>
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -1219,21 +1307,21 @@ third-party archives.
 ******************************
 
 @img/sharp-libvips-darwin-arm64
-1.2.0 <https://github.com/lovell/sharp-libvips>
+1.2.3 <https://github.com/lovell/sharp-libvips>
 license: MIT*
 authors: Lovell Fuller <npm@lovell.info>
 
 ******************************
 
 @next/env
-15.5.3 <https://github.com/vercel/next.js>
+15.5.6 <https://github.com/vercel/next.js>
 license: MIT
 authors: Next.js Team <support@vercel.com>
 
 ******************************
 
 @next/swc-darwin-arm64
-15.5.3 <https://github.com/vercel/next.js>
+15.5.6 <https://github.com/vercel/next.js>
 license: MIT
 authors: undefined
 
@@ -3013,7 +3101,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/devtools-event-client
-0.2.4 <https://github.com/TanStack/devtools>
+0.3.2 <https://github.com/TanStack/devtools>
 MIT License
 
 Copyright (c) 2025 TanStack
@@ -3040,7 +3128,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/form-core
-1.21.1 <https://github.com/TanStack/form>
+1.24.3 <https://github.com/TanStack/form>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3067,7 +3155,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/query-core
-5.89.0 <https://github.com/TanStack/query>
+5.90.5 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3094,7 +3182,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-form
-1.21.1 <https://github.com/TanStack/form>
+1.23.7 <https://github.com/TanStack/form>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3121,7 +3209,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-query
-5.89.0 <https://github.com/TanStack/query>
+5.90.5 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3148,7 +3236,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-store
-0.7.5 <https://github.com/TanStack/store>
+0.7.7 <https://github.com/TanStack/store>
 MIT License
 
 Copyright (c) 2021 Tanner Linsley
@@ -3202,7 +3290,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/store
-0.7.5 <https://github.com/TanStack/store>
+0.7.7 <https://github.com/TanStack/store>
 MIT License
 
 Copyright (c) 2021 Tanner Linsley
@@ -3499,7 +3587,7 @@ SOFTWARE.
 ******************************
 
 @types/node
-24.3.0 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+24.5.2 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -3553,7 +3641,7 @@ SOFTWARE.
 ******************************
 
 @types/react
-19.1.13 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+19.2.2 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -3580,7 +3668,7 @@ SOFTWARE.
 ******************************
 
 @types/react-dom
-19.1.9 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+19.2.2 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -4369,100 +4457,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ******************************
 
-color
-4.2.3 <https://github.com/Qix-/color>
-Copyright (c) 2012 Heather Arthur
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-******************************
-
-color-convert
-2.0.1 <https://github.com/Qix-/color-convert>
-Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-******************************
-
-color-name
-1.1.4 <https://github.com/colorjs/color-name>
-The MIT License (MIT)
-Copyright (c) 2015 Dmitry Ivanov
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-******************************
-
-color-string
-1.9.1 <https://github.com/Qix-/color-string>
-Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-******************************
-
 combined-stream
 1.0.8 <https://github.com/felixge/node-combined-stream>
 Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
@@ -4489,7 +4483,7 @@ THE SOFTWARE.
 ******************************
 
 convex
-1.27.0 <https://github.com/get-convex/convex-js>
+1.28.0 <https://github.com/get-convex/convex-js>
 
                                  Apache License
                            Version 2.0, January 2004
@@ -5311,7 +5305,7 @@ THE SOFTWARE.
 ******************************
 
 detect-libc
-2.0.4 <https://github.com/lovell/detect-libc>
+2.1.2 <https://github.com/lovell/detect-libc>
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -5558,7 +5552,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ******************************
 
 dotenv
-17.2.2 <https://github.com/motdotla/dotenv>
+17.2.3 <https://github.com/motdotla/dotenv>
 Copyright (c) 2015, Scott Motte
 All rights reserved.
 
@@ -6156,33 +6150,6 @@ THIS SOFTWARE.
 
 ******************************
 
-is-arrayish
-0.3.2 <https://github.com/qix-/node-is-arrayish>
-The MIT License (MIT)
-
-Copyright (c) 2015 JD Ballard
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
-
-******************************
-
 js-cookie
 3.0.5 <https://github.com/js-cookie/js-cookie>
 MIT License
@@ -6199,33 +6166,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-******************************
-
-jwt-decode
-4.0.0 <https://github.com/auth0/jwt-decode>
-The MIT License (MIT)
- 
-Copyright (c) 2015 Auth0, Inc. <support@auth0.com> (http://auth0.com)
- 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
- 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
- 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -6291,7 +6231,7 @@ terms above.
 ******************************
 
 lucide-react
-0.544.0 <https://github.com/lucide-icons/lucide>
+0.546.0 <https://github.com/lucide-icons/lucide>
 ISC License
 
 Copyright (c) for portions of Lucide are held by Cole Bemis 2013-2023 as part of Feather (MIT). All other copyright (c) for Lucide are held by Lucide Contributors 2025.
@@ -6447,7 +6387,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 next
-15.5.3 <https://github.com/vercel/next.js>
+15.5.6 <https://github.com/vercel/next.js>
 The MIT License (MIT)
 
 Copyright (c) 2025 Vercel, Inc.
@@ -6616,7 +6556,7 @@ SOFTWARE.
 ******************************
 
 react
-19.1.1 <https://github.com/facebook/react>
+19.2.0 <https://github.com/facebook/react>
 MIT License
 
 Copyright (c) Meta Platforms, Inc. and affiliates.
@@ -6643,7 +6583,7 @@ SOFTWARE.
 ******************************
 
 react-day-picker
-9.10.0 <https://github.com/gpbl/react-day-picker>
+9.11.1 <https://github.com/gpbl/react-day-picker>
 The MIT License (MIT)
 
 Copyright (c) 2014-2025 Giampaolo Bellavite <io@gpbl.dev> and contributors
@@ -6670,7 +6610,7 @@ SOFTWARE.
 ******************************
 
 react-dom
-19.1.1 <https://github.com/facebook/react>
+19.2.0 <https://github.com/facebook/react>
 MIT License
 
 Copyright (c) Meta Platforms, Inc. and affiliates.
@@ -6812,7 +6752,7 @@ SOFTWARE.
 ******************************
 
 recharts
-3.2.1 <https://github.com/recharts/recharts>
+3.3.0 <https://github.com/recharts/recharts>
 The MIT License (MIT)
 
 Copyright (c) 2015-present recharts
@@ -6921,7 +6861,7 @@ SOFTWARE.
 ******************************
 
 scheduler
-0.26.0 <https://github.com/facebook/react>
+0.27.0 <https://github.com/facebook/react>
 MIT License
 
 Copyright (c) Meta Platforms, Inc. and affiliates.
@@ -6976,7 +6916,7 @@ authors: undefined
 ******************************
 
 sharp
-0.34.3 <https://github.com/lovell/sharp>
+0.34.4 <https://github.com/lovell/sharp>
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -7168,33 +7108,6 @@ third-party archives.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
-
-******************************
-
-simple-swizzle
-0.2.2 <https://github.com/qix-/node-simple-swizzle>
-The MIT License (MIT)
-
-Copyright (c) 2015 Josh Junon
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
 
 
 ******************************
@@ -7406,7 +7319,7 @@ PERFORMANCE OF THIS SOFTWARE.
 ******************************
 
 typescript
-5.9.2 <https://github.com/microsoft/TypeScript>
+5.9.3 <https://github.com/microsoft/TypeScript>
 Apache License
 
 Version 2.0, January 2004
@@ -7642,7 +7555,7 @@ THE SOFTWARE.
 ******************************
 
 zod
-4.1.9 <https://github.com/colinhacks/zod>
+4.1.12 <https://github.com/colinhacks/zod>
 MIT License
 
 Copyright (c) 2025 Colin McDonnell
