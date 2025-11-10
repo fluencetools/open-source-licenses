@@ -5,7 +5,7 @@ Fluence Sync, hosted at [b2b-dashboard.fluencetraining.com](https://b2b-dashboar
 ******************************
 
 @clerk/backend
-2.19.0 <https://github.com/clerk/javascript>
+2.20.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -32,7 +32,7 @@ SOFTWARE.
 ******************************
 
 @clerk/clerk-react
-5.53.3 <https://github.com/clerk/javascript>
+5.53.8 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -59,7 +59,7 @@ SOFTWARE.
 ******************************
 
 @clerk/nextjs
-6.34.0 <https://github.com/clerk/javascript>
+6.34.5 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -86,7 +86,7 @@ SOFTWARE.
 ******************************
 
 @clerk/shared
-3.28.3 <https://github.com/clerk/javascript>
+3.31.1 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk Inc
@@ -113,7 +113,7 @@ SOFTWARE.
 ******************************
 
 @clerk/types
-4.95.1 <https://github.com/clerk/javascript>
+4.97.2 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -1524,7 +1524,7 @@ SOFTWARE.
 ******************************
 
 @radix-ui/react-avatar
-1.1.10 <https://github.com/radix-ui/primitives>
+1.1.11 <https://github.com/radix-ui/primitives>
 MIT License
 
 Copyright (c) 2022 WorkOS
@@ -1639,9 +1639,29 @@ authors: undefined
 ******************************
 
 @radix-ui/react-context
-1.1.2 <https://github.com/radix-ui/primitives>
-license: MIT
-authors: undefined
+1.1.3 <https://github.com/radix-ui/primitives>
+MIT License
+
+Copyright (c) 2022 WorkOS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ******************************
 
@@ -1876,7 +1896,7 @@ authors: undefined
 ******************************
 
 @radix-ui/react-label
-2.1.7 <https://github.com/radix-ui/primitives>
+2.1.8 <https://github.com/radix-ui/primitives>
 MIT License
 
 Copyright (c) 2022 WorkOS
@@ -2146,7 +2166,7 @@ SOFTWARE.
 ******************************
 
 @radix-ui/react-primitive
-2.1.3 <https://github.com/radix-ui/primitives>
+2.1.4 <https://github.com/radix-ui/primitives>
 MIT License
 
 Copyright (c) 2022 WorkOS
@@ -2173,7 +2193,7 @@ SOFTWARE.
 ******************************
 
 @radix-ui/react-progress
-1.1.7 <https://github.com/radix-ui/primitives>
+1.1.8 <https://github.com/radix-ui/primitives>
 MIT License
 
 Copyright (c) 2022 WorkOS
@@ -2308,7 +2328,7 @@ SOFTWARE.
 ******************************
 
 @radix-ui/react-separator
-1.1.7 <https://github.com/radix-ui/primitives>
+1.1.8 <https://github.com/radix-ui/primitives>
 MIT License
 
 Copyright (c) 2022 WorkOS
@@ -2362,7 +2382,7 @@ SOFTWARE.
 ******************************
 
 @radix-ui/react-slot
-1.2.3 <https://github.com/radix-ui/primitives>
+1.2.4 <https://github.com/radix-ui/primitives>
 MIT License
 
 Copyright (c) 2022 WorkOS
@@ -3101,7 +3121,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/devtools-event-client
-0.3.2 <https://github.com/TanStack/devtools>
+0.3.3 <https://github.com/TanStack/devtools>
 MIT License
 
 Copyright (c) 2025 TanStack
@@ -3128,7 +3148,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/form-core
-1.24.3 <https://github.com/TanStack/form>
+1.24.4 <https://github.com/TanStack/form>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3154,8 +3174,35 @@ SOFTWARE.
 
 ******************************
 
+@tanstack/pacer
+0.15.4 <https://github.com/TanStack/pacer>
+MIT License
+
+Copyright (c) 2025 Tanner Linsley
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+******************************
+
 @tanstack/query-core
-5.90.5 <https://github.com/TanStack/query>
+5.90.7 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3182,7 +3229,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-form
-1.23.7 <https://github.com/TanStack/form>
+1.23.8 <https://github.com/TanStack/form>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3209,7 +3256,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-query
-5.90.5 <https://github.com/TanStack/query>
+5.90.7 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -4483,7 +4530,7 @@ THE SOFTWARE.
 ******************************
 
 convex
-1.28.0 <https://github.com/get-convex/convex-js>
+1.28.2 <https://github.com/get-convex/convex-js>
 
                                  Apache License
                            Version 2.0, January 2004
@@ -6231,7 +6278,7 @@ terms above.
 ******************************
 
 lucide-react
-0.546.0 <https://github.com/lucide-icons/lucide>
+0.553.0 <https://github.com/lucide-icons/lucide>
 ISC License
 
 Copyright (c) for portions of Lucide are held by Cole Bemis 2013-2023 as part of Feather (MIT). All other copyright (c) for Lucide are held by Lucide Contributors 2025.
@@ -6464,6 +6511,32 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+
+******************************
+
+papaparse
+5.5.3 <https://github.com/mholt/PapaParse>
+The MIT License (MIT)
+
+Copyright (c) 2015 Matthew Holt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 ******************************
