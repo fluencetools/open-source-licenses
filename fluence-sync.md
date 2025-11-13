@@ -5,7 +5,7 @@ Fluence Sync, hosted at [b2b-dashboard.fluencetraining.com](https://b2b-dashboar
 ******************************
 
 @clerk/backend
-2.20.0 <https://github.com/clerk/javascript>
+2.22.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -32,7 +32,7 @@ SOFTWARE.
 ******************************
 
 @clerk/clerk-react
-5.53.8 <https://github.com/clerk/javascript>
+5.55.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -59,7 +59,7 @@ SOFTWARE.
 ******************************
 
 @clerk/nextjs
-6.34.5 <https://github.com/clerk/javascript>
+6.35.1 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -86,7 +86,7 @@ SOFTWARE.
 ******************************
 
 @clerk/shared
-3.31.1 <https://github.com/clerk/javascript>
+3.34.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk Inc
@@ -113,7 +113,7 @@ SOFTWARE.
 ******************************
 
 @clerk/types
-4.97.2 <https://github.com/clerk/javascript>
+4.100.0 <https://github.com/clerk/javascript>
 MIT License
 
 Copyright (c) 2022 Clerk, Inc.
@@ -140,7 +140,7 @@ SOFTWARE.
 ******************************
 
 @convex-dev/workflow
-0.2.7 <https://github.com/get-convex/workflow>
+0.3.1 <https://github.com/get-convex/workflow>
 
                                  Apache License
                            Version 2.0, January 2004
@@ -347,7 +347,7 @@ SOFTWARE.
 ******************************
 
 @convex-dev/workpool
-0.2.18 <https://github.com/get-convex/workpool>
+0.3.0 <https://github.com/get-convex/workpool>
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -3202,7 +3202,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/query-core
-5.90.7 <https://github.com/TanStack/query>
+5.90.8 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3256,7 +3256,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-query
-5.90.7 <https://github.com/TanStack/query>
+5.90.8 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3688,7 +3688,7 @@ SOFTWARE.
 ******************************
 
 @types/react
-19.2.2 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+19.2.4 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -3715,7 +3715,7 @@ SOFTWARE.
 ******************************
 
 @types/react-dom
-19.2.2 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+19.2.3 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -4530,7 +4530,7 @@ THE SOFTWARE.
 ******************************
 
 convex
-1.28.2 <https://github.com/get-convex/convex-js>
+1.29.0 <https://github.com/get-convex/convex-js>
 
                                  Apache License
                            Version 2.0, January 2004
@@ -6825,7 +6825,7 @@ SOFTWARE.
 ******************************
 
 recharts
-3.3.0 <https://github.com/recharts/recharts>
+3.4.1 <https://github.com/recharts/recharts>
 The MIT License (MIT)
 
 Copyright (c) 2015-present recharts
@@ -7315,7 +7315,7 @@ SOFTWARE.
 ******************************
 
 tailwind-merge
-3.3.1 <https://github.com/dcastil/tailwind-merge>
+3.4.0 <https://github.com/dcastil/tailwind-merge>
 MIT License
 
 Copyright (c) 2021 Dany Castillo
