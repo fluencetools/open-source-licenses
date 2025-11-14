@@ -711,7 +711,7 @@ authors: undefined
 ******************************
 
 @floating-ui/core
-1.7.2 <https://github.com/floating-ui/floating-ui>
+1.7.3 <https://github.com/floating-ui/floating-ui>
 MIT License
 
 Copyright (c) 2021-present Floating UI contributors
@@ -737,7 +737,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @floating-ui/dom
-1.7.2 <https://github.com/floating-ui/floating-ui>
+1.7.4 <https://github.com/floating-ui/floating-ui>
 MIT License
 
 Copyright (c) 2021-present Floating UI contributors
@@ -763,7 +763,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 @floating-ui/react-dom
-2.1.4 <https://github.com/floating-ui/floating-ui>
+2.1.6 <https://github.com/floating-ui/floating-ui>
 MIT License
 
 Copyright (c) 2021-present Floating UI contributors
@@ -1110,7 +1110,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ******************************
 
 @img/sharp-darwin-arm64
-0.34.4 <https://github.com/lovell/sharp>
+0.34.5 <https://github.com/lovell/sharp>
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -1307,7 +1307,7 @@ third-party archives.
 ******************************
 
 @img/sharp-libvips-darwin-arm64
-1.2.3 <https://github.com/lovell/sharp-libvips>
+1.2.4 <https://github.com/lovell/sharp-libvips>
 license: MIT*
 authors: Lovell Fuller <npm@lovell.info>
 
@@ -2755,7 +2755,7 @@ authors: undefined
 ******************************
 
 @reduxjs/toolkit
-2.8.2 <https://github.com/reduxjs/redux-toolkit>
+2.10.1 <https://github.com/reduxjs/redux-toolkit>
 MIT License
 
 Copyright (c) 2018 Mark Erikson
@@ -3121,7 +3121,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/devtools-event-client
-0.3.3 <https://github.com/TanStack/devtools>
+0.3.5 <https://github.com/TanStack/devtools>
 MIT License
 
 Copyright (c) 2025 TanStack
@@ -3148,7 +3148,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/form-core
-1.24.4 <https://github.com/TanStack/form>
+1.25.0 <https://github.com/TanStack/form>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3202,7 +3202,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/query-core
-5.90.8 <https://github.com/TanStack/query>
+5.90.9 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3229,7 +3229,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-form
-1.23.8 <https://github.com/TanStack/form>
+1.25.0 <https://github.com/TanStack/form>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3256,7 +3256,7 @@ SOFTWARE.
 ******************************
 
 @tanstack/react-query
-5.90.8 <https://github.com/TanStack/query>
+5.90.9 <https://github.com/TanStack/query>
 MIT License
 
 Copyright (c) 2021-present Tanner Linsley
@@ -3391,7 +3391,7 @@ SOFTWARE.
 ******************************
 
 @types/d3-array
-3.2.1 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+3.2.2 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -3661,7 +3661,7 @@ SOFTWARE.
 ******************************
 
 @types/node-fetch
-2.6.12 <https://github.com/DefinitelyTyped/DefinitelyTyped>
+2.6.13 <https://github.com/DefinitelyTyped/DefinitelyTyped>
     MIT License
 
     Copyright (c) Microsoft Corporation.
@@ -3886,7 +3886,7 @@ SOFTWARE.
 ******************************
 
 caniuse-lite
-1.0.30001726 <https://github.com/browserslist/caniuse-lite>
+1.0.30001754 <https://github.com/browserslist/caniuse-lite>
 Attribution 4.0 International
 
 =======================================================================
@@ -4530,7 +4530,7 @@ THE SOFTWARE.
 ******************************
 
 convex
-1.29.0 <https://github.com/get-convex/convex-js>
+1.29.1 <https://github.com/get-convex/convex-js>
 
                                  Apache License
                            Version 2.0, January 2004
@@ -5284,21 +5284,6 @@ authors: Michael Mclaughlin <M8ch88l@gmail.com>
 
 ******************************
 
-decode-formdata
-0.9.0 <https://github.com/fabian-hiller/decode-formdata>
-MIT License
-
-Copyright (c) 2023 Fabian Hiller
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-******************************
-
 delayed-stream
 1.0.0 <https://github.com/felixge/node-delayed-stream>
 Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
@@ -5585,19 +5570,6 @@ SOFTWARE.
 
 ******************************
 
-devalue
-5.3.2 <https://github.com/sveltejs/devalue>
-Copyright (c) 2018-19 [these people](https://github.com/rich-harris/devalue/graphs/contributors)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-******************************
-
 dotenv
 17.2.3 <https://github.com/motdotla/dotenv>
 Copyright (c) 2015, Scott Motte
@@ -5763,10 +5735,14 @@ SOFTWARE.
 ******************************
 
 es-toolkit
-1.39.7 <https://github.com/toss/es-toolkit>
+1.41.0 <https://github.com/toss/es-toolkit>
 MIT License
 
 Copyright (c) 2024 Viva Republica, Inc
+
+Copyright OpenJS Foundation and other contributors
+
+Parts of the test suite and compatibility layer in `es-toolkit/compat` are derived from Lodash (https://github.com/lodash/lodash) by the OpenJS Foundation (https://openjsf.org/) and Underscore.js by Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors (http://underscorejs.org/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -5785,12 +5761,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Some of the test code in this software comes from the lodash library (https://github.com/lodash/lodash).
-
-The copyright for this imported test code from lodash is owned by the JS Foundation and other contributors <https://js.foundation/>.
 
 
 ******************************
@@ -6152,7 +6122,7 @@ SOFTWARE.
 ******************************
 
 immer
-10.1.1 <https://github.com/immerjs/immer>
+10.2.0 <https://github.com/immerjs/immer>
 MIT License
 
 Copyright (c) 2017 Michel Weststrate
@@ -6589,7 +6559,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************
 
 prettier
-3.5.3 <https://github.com/prettier/prettier>
+3.6.2 <https://github.com/prettier/prettier>
 Copyright © James Long and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -6710,10 +6680,10 @@ SOFTWARE.
 ******************************
 
 react-is
-18.3.1 <https://github.com/facebook/react>
+19.2.0 <https://github.com/facebook/react>
 MIT License
 
-Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Meta Platforms, Inc. and affiliates.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -6961,7 +6931,7 @@ SOFTWARE.
 ******************************
 
 semver
-7.7.2 <https://github.com/npm/node-semver>
+7.7.3 <https://github.com/npm/node-semver>
 The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
@@ -6989,7 +6959,7 @@ authors: undefined
 ******************************
 
 sharp
-0.34.4 <https://github.com/lovell/sharp>
+0.34.5 <https://github.com/lovell/sharp>
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -7254,7 +7224,7 @@ authors: Standard Webhooks
 ******************************
 
 std-env
-3.9.0 <https://github.com/unjs/std-env>
+3.10.0 <https://github.com/unjs/std-env>
 license: MIT
 authors: undefined
 
@@ -7453,7 +7423,7 @@ END OF TERMS AND CONDITIONS
 ******************************
 
 undici-types
-7.8.0 <https://github.com/nodejs/undici>
+7.16.0 <https://github.com/nodejs/undici>
 MIT License
 
 Copyright (c) Matteo Collina and Undici contributors
@@ -7534,7 +7504,7 @@ SOFTWARE.
 ******************************
 
 use-sync-external-store
-1.5.0 <https://github.com/facebook/react>
+1.6.0 <https://github.com/facebook/react>
 MIT License
 
 Copyright (c) Meta Platforms, Inc. and affiliates.
